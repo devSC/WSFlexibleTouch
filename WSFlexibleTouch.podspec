@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'WSFlexibleTouch'
   s.version          = '0.1.0'
-  s.summary          = 'Help you add excellent flexible animation for UIButton when user touched'
+  s.summary          = 'Add flexible touch animation to UIButton class'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,9 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = ''
+  s.description      = 'A lib to help you add excellent flexible animation for UIButton class when user touched'
   s.homepage         = 'https://github.com/devSC/WSFlexibleTouch'
-   s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.screenshots     = 'https://github.com/devSC/WSFlexibleTouch/blob/master/screenshots.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'devSC' => 'xiaochong2154@163.com' }
   s.source           = { :git => 'https://github.com/devSC/WSFlexibleTouch.git', :tag => s.version.to_s }

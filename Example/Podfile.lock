@@ -1,0 +1,16 @@
+PODS:
+  - WSFlexibleTouch (0.1.0)
+
+DEPENDENCIES:
+  - WSFlexibleTouch (from `../`)
+
+EXTERNAL SOURCES:
+  WSFlexibleTouch:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WSFlexibleTouch: 4962aada361ea20da340e7e26c51b916b2b82402
+
+PODFILE CHECKSUM: 1a51c37d969edc18f4a85bcf95152b6ffa81b165
+
+COCOAPODS: 1.4.0

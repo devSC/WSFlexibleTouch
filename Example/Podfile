@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WSFlexibleTouch_Example' do
+  pod 'WSFlexibleTouch', :path => '../'
+
+  target 'WSFlexibleTouch_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -7,7 +7,7 @@
 
 ### A lib to help you add excellent flexible animation for UIButton class when user touched
 
-![img]('https://github.com/devSC/WSFlexibleTouch/blob/master/screenshots.mp4')
+![img]('https://github.com/devSC/WSFlexibleTouch/blob/master/screenshots.gif')
 
 ## Example
 

@@ -10,10 +10,10 @@
 
 @interface UIButton (WSFlexibleTouch)
 
-/// default is true
-@property (nonatomic) BOOL ws_disableFlexibleTouch;
+/// default is false
+@property (nonatomic) BOOL ws_disableFlexibleTouch NS_SWIFT_NAME(disableFlexibleTouch);
 
 /// default is 0.25s. must large than 0.00s
-@property (nonatomic) NSTimeInterval ws_flexibleTouchAnimationDuration;
+@property (nonatomic) NSTimeInterval ws_flexibleTouchAnimationDuration NS_SWIFT_NAME(flexibleTouchAnimationDuration);
 
 @end
